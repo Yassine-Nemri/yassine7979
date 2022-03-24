@@ -1,0 +1,43 @@
+body{
+ 
+
+    width: 100%;
+    background: white;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.back{
+    background-color: rgb(253, 253, 253);
+    padding-top: 20px;
+    margin-top: 10px;
+}
+.ba{
+    background-color: rgb(207, 100, 0);
+   margin-left: 170px;
+   margin-right: 170px;
+}
+.okeya{
+  
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 5px;
+    
+}
+.ab2{color: rgb(207, 100, 0);
+    font-size: 70px;
+    padding: 5px;
+    margin-left: 170px;
+
+}
+.ab3{
+    font-size: 33px;
+    margin-left:1050px;
+    color: aqua;
+}
+.prev{
+    
+        font-size: 33px;
+        
+
+}

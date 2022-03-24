@@ -1,0 +1,19 @@
+body{
+ 
+
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(taswira.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.ab2{color: antiquewhite;
+    font-size: 70px;
+    padding: 5px;
+
+}
+.ab1{
+    color: antiquewhite;
+    font-size: 20px;
+    padding: 5px;
+}
